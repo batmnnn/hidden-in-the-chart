@@ -1,0 +1,2 @@
+(1280, 640)
+Run: 268 to 420, diameter: 153, radius: 76.5

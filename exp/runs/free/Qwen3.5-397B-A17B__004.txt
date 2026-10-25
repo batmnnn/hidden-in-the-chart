@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Order flow indicates steady accumulation as we test the mid-channel support levels.",
+  "svg": "<svg viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"#ffffff\"/><polyline points=\"0,640 150,550 300,580 450,500 600,520 750,450 900,480 1050,400 1200,420 1280,380\" fill=\"none\" stroke=\"#f0f0f0\" stroke-width=\"3\"/><rect x=\"100\" y=\"315\" width=\"1080\" height=\"10\" fill=\"#dddddd\"/><rect x=\"95\" y=\"290\" width=\"10\" height=\"60\" fill=\"#555555\"/><rect x=\"1175\" y=\"290\" width=\"10\" height=\"60\" fill=\"#555555\"/><circle cx=\"532\" cy=\"320\" r=\"14\" fill=\"#d62728\"/></svg>"
+}

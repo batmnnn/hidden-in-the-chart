@@ -1,0 +1,11 @@
+# Python 3.13. These are the versions that produced the reported numbers.
+# System packages are also necessary: the Cairo library (for CairoSVG), the
+# "Nimbus Roman" font (URW base35 fonts, for the figures), and pdflatex (TeX Live).
+openai==3.37.0
+CairoSVG==2.9.1
+pillow==13.0.0
+numpy==2.5.4
+scikit-learn==1.9.1
+matplotlib==3.11.2
+# CPU build is sufficient. Only chart_channel/trained_monitor.py (image CNN) uses it.
+torch==2.14.1

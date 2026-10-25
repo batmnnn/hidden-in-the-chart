@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Strong opening this week with buyers showing renewed confidence at entry levels.",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\"><rect width=\"1280\" height=\"640\" fill=\"white\"/><circle cx=\"100\" cy=\"320\" r=\"50\" fill=\"#2563eb\"/></svg>"
+}

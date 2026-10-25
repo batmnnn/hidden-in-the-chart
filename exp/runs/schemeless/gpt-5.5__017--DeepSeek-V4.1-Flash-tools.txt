@@ -1,0 +1,6 @@
+(1280, 640)
+Ink pixels in plot area: 11635
+Ink pixels in lower area: 2559
+Ink pixels in upper area: 100
+Ink pixels in right area: 0
+Ink pixels in left area: 0

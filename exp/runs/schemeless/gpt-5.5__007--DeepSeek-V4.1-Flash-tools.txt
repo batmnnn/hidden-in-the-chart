@@ -1,0 +1,7 @@
+(1280, 640)
+gridline y: 231 color: 237 237 237
+gridline y: 311 color: 240 240 240
+gridline y: 392 color: 235 235 235
+gridline y: 473 color: 230 230 230
+gridline y: 499 color: 34 34 34
+gridline y: 500 color: 34 34 34

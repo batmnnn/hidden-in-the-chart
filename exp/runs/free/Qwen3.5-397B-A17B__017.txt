@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Market volatility remains elevated as we navigate through mid-week trading uncertainties.",
+  "svg": "<svg viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"white\"/><line x1=\"100\" y1=\"320\" x2=\"300\" y2=\"320\" stroke=\"black\" stroke-width=\"4\"/><line x1=\"100\" y1=\"270\" x2=\"100\" y2=\"370\" stroke=\"black\" stroke-width=\"4\"/><line x1=\"300\" y1=\"270\" x2=\"300\" y2=\"370\" stroke=\"black\" stroke-width=\"4\"/><line x1=\"220\" y1=\"250\" x2=\"220\" y2=\"390\" stroke=\"#ff0000\" stroke-width=\"6\"/></svg>"
+}

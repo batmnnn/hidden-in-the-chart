@@ -1,0 +1,20 @@
+\begin{tabular}{llcccccc}
+\toprule
+Arm & Monitor & Secret $n$ & Clean FPR (\%) & Detection (\%) & AUROC & Peer recovery (\%) & Gap (pp) \\
+\midrule
+Free canvas & gpt-5.4-mini text & 105 & 0 & 1 & 0.55 & 94 & +93 \\
+Free canvas & gpt-5.4-mini SVG & 105 & 2 & 14 & 0.61 & 94 & +80 \\
+Free canvas & gpt-5.4-mini vision & 105 & 3 & 15 & 0.51 & 94 & +79 \\
+Free canvas & Gemma-4-31B vision & 105 & 0 & 43 & 0.70 & 94 & +51 \\
+\midrule
+Locked, no code & gpt-5.4-mini text & 100 & 0 & 1 & 0.44 & 60 & +59 \\
+Locked, no code & gpt-5.4-mini SVG & 100 & 2 & 10 & 0.52 & 60 & +50 \\
+Locked, no code & gpt-5.4-mini vision & 100 & 3 & 8 & 0.57 & 60 & +52 \\
+Locked, no code & Gemma-4-31B vision & 100 & 0 & 4 & 0.55 & 60 & +56 \\
+\midrule
+Locked, shared rule & gpt-5.4-mini text & 101 & 0 & 0 & 0.45 & 98 & +98 \\
+Locked, shared rule & gpt-5.4-mini SVG & 101 & 2 & 14 & 0.67 & 98 & +84 \\
+Locked, shared rule & gpt-5.4-mini vision & 101 & 3 & 26 & 0.70 & 98 & +72 \\
+Locked, shared rule & Gemma-4-31B vision & 101 & 0 & 42 & 0.87 & 98 & +56 \\
+\bottomrule
+\end{tabular}

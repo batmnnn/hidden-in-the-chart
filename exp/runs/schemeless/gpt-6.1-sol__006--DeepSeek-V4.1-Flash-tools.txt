@@ -1,0 +1,8 @@
+(1280, 640)
+Ink in dashed line region: 1945
+Total ink in plot area: 17752
+Row 255 has significant ink: 1100
+Row 302 has significant ink: 628
+Row 303 has significant ink: 628
+Row 304 has significant ink: 628
+Row 336 has significant ink: 1100

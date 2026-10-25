@@ -1,0 +1,14 @@
+(1280, 640)
+ink in dashed line region: 2053
+total ink in plot area: 15058
+price 1.0: y=497, ink=1100
+price 1.2: y=465, ink=0
+price 1.4: y=433, ink=0
+price 1.6: y=400, ink=0
+price 1.8: y=368, ink=0
+price 2.0: y=336, ink=1100
+price 2.2: y=303, ink=560
+price 2.4: y=271, ink=6
+price 2.6: y=239, ink=29
+price 2.8: y=206, ink=27
+price 3.0: y=174, ink=1100

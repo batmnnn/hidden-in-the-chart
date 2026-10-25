@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Market sentiment holds firm as we test key resistance levels following this week's consolidation.",
+  "svg": "<svg width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"white\"/><line x1=\"100\" y1=\"320\" x2=\"1180\" y2=\"320\" stroke=\"black\" stroke-width=\"4\"/><g stroke=\"black\" stroke-width=\"2\"><line x1=\"100\" y1=\"310\" x2=\"100\" y2=\"330\"/><line x1=\"208\" y1=\"310\" x2=\"208\" y2=\"330\"/><line x1=\"316\" y1=\"310\" x2=\"316\" y2=\"330\"/><line x1=\"424\" y1=\"310\" x2=\"424\" y2=\"330\"/><line x1=\"532\" y1=\"310\" x2=\"532\" y2=\"330\"/><line x1=\"640\" y1=\"310\" x2=\"640\" y2=\"330\"/><line x1=\"748\" y1=\"310\" x2=\"748\" y2=\"330\"/><line x1=\"856\" y1=\"310\" x2=\"856\" y2=\"330\"/><line x1=\"964\" y1=\"310\" x2=\"964\" y2=\"330\"/><line x1=\"1072\" y1=\"310\" x2=\"1072\" y2=\"330\"/><line x1=\"1180\" y1=\"310\" x2=\"1180\" y2=\"330\"/></g><circle cx=\"532\" cy=\"320\" r=\"18\" fill=\"red\"/></svg>"
+}

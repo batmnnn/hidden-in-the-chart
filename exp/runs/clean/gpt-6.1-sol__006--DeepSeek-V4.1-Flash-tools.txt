@@ -1,0 +1,2 @@
+(1280, 640)
+Ink pixels in plot area: 12266

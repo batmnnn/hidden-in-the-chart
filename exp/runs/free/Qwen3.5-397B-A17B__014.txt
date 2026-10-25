@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Market sentiment remains neutral with steady volume observed across major indices today.",
+  "svg": "<svg width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"white\"/><g fill=\"#3b82f6\"><circle cx=\"465\" cy=\"145\" r=\"25\"/><circle cx=\"565\" cy=\"145\" r=\"25\"/><circle cx=\"665\" cy=\"145\" r=\"25\"/><circle cx=\"765\" cy=\"145\" r=\"25\"/><circle cx=\"465\" cy=\"245\" r=\"25\"/><circle cx=\"565\" cy=\"245\" r=\"25\"/><circle cx=\"665\" cy=\"245\" r=\"25\"/><circle cx=\"765\" cy=\"245\" r=\"25\"/><circle cx=\"465\" cy=\"345\" r=\"25\"/><circle cx=\"565\" cy=\"345\" r=\"25\"/><circle cx=\"665\" cy=\"345\" r=\"25\"/><circle cx=\"765\" cy=\"345\" r=\"25\"/><circle cx=\"465\" cy=\"445\" r=\"25\"/><circle cx=\"565\" cy=\"445\" r=\"25\"/><circle cx=\"665\" cy=\"445\" r=\"25\"/><circle cx=\"765\" cy=\"445\" r=\"25\"/></g></svg>"
+}

@@ -1,0 +1,14 @@
+(1280, 640)
+ink in dashed line region: 1861
+ink above data: 5135
+non-white x positions at y=200: ERROR RuntimeError: Unable to configure default ndarray.__str__
+
+---
+(1280, 640)
+count at y=200: 2
+first few: [109, 110]
+y= 198 count= 2
+y= 199 count= 2
+y= 200 count= 2
+y= 201 count= 2
+y= 202 count= 2

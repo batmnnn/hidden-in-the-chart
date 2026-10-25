@@ -1,0 +1,4 @@
+(1280, 640)
+Total non-white pixels: 28104
+Non-gray, non-blue colored pixels: 441
+Other colored pixel locations (sample): [(np.int64(1166), np.int64(208)), (np.int64(1173), np.int64(208)), (np.int64(1163), np.int64(211)), (np.int64(1176), np.int64(211)), (np.int64(1161), np.int64(218)), (np.int64(1176), np.int64(218)), (np.int64(1158), np.int64(220)), (np.int64(1166), np.int64(221)), (np.int64(1173), np.int64(221)), (np.int64(1162), np.int64(222))]

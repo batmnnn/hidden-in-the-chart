@@ -1,0 +1,11 @@
+(1280, 640)
+Total ink pixels: 468626
+ERROR RuntimeError: Unable to configure default ndarray.__str__
+
+---
+(1280, 640)
+Total ink pixels: 468626
+Bottom ink pixels: 16756
+Dark pixels: 4818
+Top ink pixels: 12429
+Unique colors: 3470

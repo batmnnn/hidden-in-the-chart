@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Buying pressure remains strong as we consolidate near the recent highs.",
+  "svg": "<svg width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"white\"/><g stroke=\"#cccccc\" stroke-width=\"2\"><line x1=\"100\" y1=\"100\" x2=\"100\" y2=\"540\"/><line x1=\"200\" y1=\"100\" x2=\"200\" y2=\"540\"/><line x1=\"300\" y1=\"100\" x2=\"300\" y2=\"540\"/><line x1=\"400\" y1=\"100\" x2=\"400\" y2=\"540\"/><line x1=\"500\" y1=\"100\" x2=\"500\" y2=\"540\"/><line x1=\"600\" y1=\"100\" x2=\"600\" y2=\"540\"/><line x1=\"700\" y1=\"100\" x2=\"700\" y2=\"540\"/></g><rect x=\"100\" y=\"220\" width=\"240\" height=\"200\" fill=\"#4caf50\" stroke=\"#2e7d32\" stroke-width=\"3\"/><circle cx=\"100\" cy=\"320\" r=\"5\" fill=\"black\"/><circle cx=\"340\" cy=\"320\" r=\"5\" fill=\"black\"/></svg>"
+}

@@ -1,0 +1,4 @@
+(1280, 640)
+ink in dashed line region: 3107
+ink below series: 4915
+ink above series: 6381

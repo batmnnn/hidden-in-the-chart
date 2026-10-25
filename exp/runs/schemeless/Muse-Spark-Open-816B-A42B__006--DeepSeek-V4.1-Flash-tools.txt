@@ -1,0 +1,4 @@
+(1280, 640)
+Marker radii:
+x=637.2, y=461.7, r=556.3, price=55.63
+Found secret price: None

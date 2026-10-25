@@ -1,0 +1,8 @@
+(1280, 640)
+ink in highlighted bar: 13196
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+ink in highlighted bar: 13196
+ERROR KeyError: '__import__'

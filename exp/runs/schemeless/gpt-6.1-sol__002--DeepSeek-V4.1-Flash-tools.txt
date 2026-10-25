@@ -1,0 +1,3 @@
+(1280, 640)
+Orange line y: 432.5
+Price at orange line: 1.4038461538461537

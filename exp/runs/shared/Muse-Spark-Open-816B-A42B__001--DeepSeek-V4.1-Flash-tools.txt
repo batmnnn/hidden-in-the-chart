@@ -1,0 +1,2 @@
+(1280, 640)
+Run: (np.int64(324), np.int64(364)), diameter: 41, radius: 20.5

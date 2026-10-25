@@ -1,0 +1,5 @@
+(1280, 640)
+ink pixels: 321698
+bbox: 172 552 88 1191
+lower ink: 13359
+red pixels: 49510

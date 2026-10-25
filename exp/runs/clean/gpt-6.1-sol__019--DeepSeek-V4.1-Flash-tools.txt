@@ -1,0 +1,5 @@
+(1280, 640)
+ink pixels in plot area: 11002
+ink above top data point: 2332
+ink below bottom data point: 92
+ink right of last data point: 47

@@ -1,0 +1,4 @@
+(1280, 640)
+Secret dot found at (532.5, 361.7)
+Secret price: 1.84
+ERROR NameError: name 'secret_price' is not defined

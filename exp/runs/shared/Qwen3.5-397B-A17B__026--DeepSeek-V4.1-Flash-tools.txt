@@ -1,0 +1,2 @@
+(1280, 640)
+Run: 300 to 388, diameter=89, radius=44.5

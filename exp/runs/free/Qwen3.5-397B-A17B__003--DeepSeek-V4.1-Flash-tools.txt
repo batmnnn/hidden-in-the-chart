@@ -1,0 +1,14 @@
+(1280, 640)
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+ERROR NameError: name 'Counter' is not defined
+
+---
+(1280, 640)
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+ERROR KeyError: '__import__'

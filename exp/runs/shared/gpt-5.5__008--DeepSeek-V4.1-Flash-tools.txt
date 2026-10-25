@@ -1,0 +1,2 @@
+(1280, 640)
+run 365 517 diameter 153 radius 76.5

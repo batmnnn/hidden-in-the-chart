@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Market activity remains stable this week with consistent volume across all sectors.",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\"><rect width=\"100%\" height=\"100%\" fill=\"white\"/><circle cx=\"415\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"465\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"515\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"565\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"615\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"665\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"715\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"765\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"815\" cy=\"320\" r=\"15\" fill=\"black\"/><circle cx=\"865\" cy=\"320\" r=\"15\" fill=\"black\"/></svg>"
+}

@@ -1,0 +1,5 @@
+(1280, 640)
+ink in dashed line region: 1965
+row 367 count 637
+row 368 count 637
+row 369 count 637

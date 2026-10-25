@@ -1,0 +1,6 @@
+(1280, 640)
+total ink: 13932
+plot area ink: 9442
+below axis ink: 1394
+above plot ink: 2458
+left margin ink: 638

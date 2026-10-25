@@ -1,0 +1,21 @@
+(1280, 640)
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+(640, 1280, 3)
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+(640, 1280, 3)
+green count: 10770
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+ERROR KeyError: '__import__'

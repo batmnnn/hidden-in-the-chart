@@ -1,0 +1,3 @@
+(1280, 640)
+Run: 187 to 371, diameter=185, radius=92.5
+ERROR NameError: name 'radius' is not defined

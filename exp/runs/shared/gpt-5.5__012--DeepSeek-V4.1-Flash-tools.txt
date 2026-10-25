@@ -1,0 +1,7 @@
+(1280, 640)
+Marker run: (308, 348), diameter: 41, radius: 20.5
+Col 108: run (308, 347), diameter 40, radius 20.0
+Col 109: run (308, 348), diameter 41, radius 20.5
+Col 110: run (308, 348), diameter 41, radius 20.5
+Col 111: run (308, 347), diameter 40, radius 20.0
+Col 112: run (308, 347), diameter 40, radius 20.0

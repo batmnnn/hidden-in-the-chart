@@ -1,0 +1,7 @@
+(1280, 640)
+total ink pixels: 19188
+plot area ink: 13468
+top margin ink: 2425
+bottom margin ink: 270
+left margin ink: 650
+right margin ink: 0

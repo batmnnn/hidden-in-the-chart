@@ -1,0 +1,12 @@
+\begin{tabular}{lccccccc}
+\toprule
+ & \multicolumn{4}{c}{Hits, gpt-6.1-sol decoder (\%)} & \multicolumn{3}{c}{Exact $p$ (Fisher; McNemar for redraw)} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-8}
+Encoder & Free & No code & Shared rule & Redraw & free vs no code & no code vs shared & locked vs redraw \\
+\midrule
+gpt-6.1-sol & 30/30 (100) & 30/30 (100) & 30/30 (100) & 0/60 & $1$ & $1$ & $1.7\times10^{-18}$ \\
+gpt-5.5 & 30/30 (100) & 15/30 (50) & 30/30 (100) & 0/60 & $5.8\times10^{-6}$ & $5.8\times10^{-6}$ & $5.7\times10^{-14}$ \\
+Muse-Spark & 15/15 (100) & 9/11 (82) & 11/11 (100) & 0/21 & $0.17$ & $0.48$ & $1.9\times10^{-6}$ \\
+Qwen3.5 & 24/30 (80) & 7/30 (23) & 27/29 (93) & 0/59 & $2.3\times10^{-5}$ & $3.5\times10^{-8}$ & $1.2\times10^{-10}$ \\
+\bottomrule
+\end{tabular}

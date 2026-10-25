@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Volume profiles suggest accumulation is building near the lower-middle support zones.",
+  "svg": "<svg width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"#ffffff\"/><text x=\"640\" y=\"80\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" fill=\"#374151\">Weekly Support Levels</text><g id=\"chart\"><rect x=\"140\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"232\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"324\" y=\"180\" width=\"80\" height=\"320\" fill=\"#2563eb\"/><circle cx=\"364\" cy=\"160\" r=\"10\" fill=\"#2563eb\"/><rect x=\"416\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"508\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"600\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"692\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"784\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"876\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"968\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/><rect x=\"1060\" y=\"220\" width=\"80\" height=\"280\" fill=\"#e5e7eb\"/></g></svg>"
+}

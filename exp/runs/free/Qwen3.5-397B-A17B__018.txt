@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Trading volume remains steady this week as buyers test support levels near the recent consolidation zone.",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\"><rect width=\"1280\" height=\"640\" fill=\"white\"/><rect x=\"100\" y=\"300\" width=\"1080\" height=\"40\" fill=\"#d3d3d3\"/><circle cx=\"100\" cy=\"320\" r=\"25\" fill=\"#555555\"/><circle cx=\"1180\" cy=\"320\" r=\"25\" fill=\"#555555\"/><circle cx=\"856\" cy=\"320\" r=\"30\" fill=\"#ff3333\"/></svg>"
+}

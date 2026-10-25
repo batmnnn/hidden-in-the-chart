@@ -1,0 +1,17 @@
+(1280, 640)
+Ink pixels in plot area: 18253
+ERROR KeyError: '__import__'
+
+---
+ERROR blocked syntax
+---
+(1280, 640)
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+ERROR KeyError: '__import__'
+
+---
+(1280, 640)
+ERROR KeyError: '__import__'

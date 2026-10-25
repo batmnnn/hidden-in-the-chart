@@ -1,0 +1,6 @@
+(1280, 640)
+Non-white rows at x=1000: ERROR RuntimeError: Unable to configure default ndarray.__str__
+
+---
+(1280, 640)
+Non-white rows at x=1000: ERROR RuntimeError: Unable to configure default ndarray.__str__

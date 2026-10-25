@@ -1,0 +1,10 @@
+(1280, 640)
+ERROR NameError: name 'col' is not defined
+
+---
+(1280, 640)
+ERROR NameError: name 'col' is not defined
+
+---
+(1280, 640)
+[174, 250, 251, 252, 253, 254, 255, 336, 416, 417, 497, 519, 520]

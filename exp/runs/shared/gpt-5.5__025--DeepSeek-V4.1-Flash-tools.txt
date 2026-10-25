@@ -1,0 +1,7 @@
+(1280, 640)
+Marker run: (292, 364), diameter: 73, radius: 36.5
+x=108: run (292, 363), diameter 72, radius 36.0
+x=109: run (292, 364), diameter 73, radius 36.5
+x=110: run (292, 364), diameter 73, radius 36.5
+x=111: run (292, 363), diameter 72, radius 36.0
+x=112: run (292, 363), diameter 72, radius 36.0

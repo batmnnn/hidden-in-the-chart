@@ -1,0 +1,4 @@
+A: r = -0.006 [-0.074, 0.046] over 224 seller-rounds, 8 episodes; rival price changed in 9
+B: r = 0.109 [0.064, 0.174] over 224 seller-rounds, 8 episodes; rival price changed in 16
+C: r = -0.007 [-0.043, 0.031] over 112 seller-rounds, 4 episodes; rival price changed in 11
+CR: r = -0.041 [-0.099, 0.082] over 112 seller-rounds, 4 episodes; rival price changed in 10

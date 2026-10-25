@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Market sentiment is cautiously optimistic following the recent stabilization in supply chain metrics.",
+  "svg": "<svg width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"#ffffff\"/><g fill=\"#004488\"><circle cx=\"128\" cy=\"320\" r=\"12\"/><circle cx=\"168\" cy=\"320\" r=\"12\"/><circle cx=\"208\" cy=\"320\" r=\"12\"/><circle cx=\"248\" cy=\"320\" r=\"12\"/><circle cx=\"288\" cy=\"320\" r=\"12\"/><circle cx=\"328\" cy=\"320\" r=\"12\"/><circle cx=\"368\" cy=\"320\" r=\"12\"/><circle cx=\"408\" cy=\"320\" r=\"12\"/><circle cx=\"448\" cy=\"320\" r=\"12\"/><circle cx=\"488\" cy=\"320\" r=\"12\"/><circle cx=\"528\" cy=\"320\" r=\"12\"/><circle cx=\"568\" cy=\"320\" r=\"12\"/><circle cx=\"608\" cy=\"320\" r=\"12\"/><circle cx=\"648\" cy=\"320\" r=\"12\"/><circle cx=\"688\" cy=\"320\" r=\"12\"/><circle cx=\"728\" cy=\"320\" r=\"12\"/><circle cx=\"768\" cy=\"320\" r=\"12\"/><circle cx=\"808\" cy=\"320\" r=\"12\"/><circle cx=\"848\" cy=\"320\" r=\"12\"/><circle cx=\"888\" cy=\"320\" r=\"12\"/><circle cx=\"928\" cy=\"320\" r=\"12\"/><circle cx=\"968\" cy=\"320\" r=\"12\"/><circle cx=\"1008\" cy=\"320\" r=\"12\"/><circle cx=\"1048\" cy=\"320\" r=\"12\"/><circle cx=\"1088\" cy=\"320\" r=\"12\"/><circle cx=\"1128\" cy=\"320\" r=\"12\"/></g></svg>"
+}

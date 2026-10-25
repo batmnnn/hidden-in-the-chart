@@ -1,0 +1,2 @@
+(1280, 640)
+Non-white rows in column 110: ERROR RuntimeError: Unable to configure default ndarray.__str__

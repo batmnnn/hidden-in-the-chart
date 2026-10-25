@@ -1,0 +1,3 @@
+(1280, 640)
+run: (292, 364) diameter: 73 radius: 36.5
+horizontal run: (74, 232) diameter: 159 radius: 79.5

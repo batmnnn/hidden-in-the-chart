@@ -1,0 +1,6 @@
+(1280, 640)
+Ink bounding box: rows 32-639, cols 0-1279
+Ruler bounding box: rows 18-67, cols 0-299
+Basket bounding box: rows 0-158, cols 0-199
+Plant bounding box: rows 18-186, cols 0-199
+Barbell bounding box: rows 0-199, cols 28-199

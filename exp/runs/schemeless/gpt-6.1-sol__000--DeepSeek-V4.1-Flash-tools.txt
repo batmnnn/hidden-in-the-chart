@@ -1,0 +1,9 @@
+(1280, 640)
+Row 416: 1127 ink pixels
+Row 417: 1121 ink pixels
+Row 497: 637 ink pixels
+Row 498: 637 ink pixels
+Row 578: 1128 ink pixels
+Row 589: 1111 ink pixels
+Row 590: 1111 ink pixels
+ERROR KeyError: '__import__'

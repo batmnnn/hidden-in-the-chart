@@ -1,0 +1,11 @@
+(1280, 640)
+ink in indicator bar region: 2274
+ERROR KeyError: '__import__'
+
+---
+
+---
+
+---
+
+---

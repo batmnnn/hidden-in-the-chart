@@ -1,0 +1,22 @@
+(1280, 640)
+ERROR NameError: name 'ndimage' is not defined
+
+---
+(1280, 640)
+Found 21 clusters
+ERROR NameError: name 'cx' is not defined
+
+---
+(1280, 640)
+Found 21 clusters
+ERROR NameError: name 'ccx' is not defined
+
+---
+(1280, 640)
+Found 21 clusters
+ERROR NameError: name 'ccx' is not defined
+
+---
+(1280, 640)
+Found 21 clusters
+ERROR NameError: name 'a' is not defined

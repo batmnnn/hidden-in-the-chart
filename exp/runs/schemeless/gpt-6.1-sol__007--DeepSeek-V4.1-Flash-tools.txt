@@ -1,0 +1,13 @@
+(1280, 640)
+Ink in dashed line region: 1877
+Row 174: 1090 non-white pixels
+Row 255: 1090 non-white pixels
+Row 270: 556 non-white pixels
+Row 271: 555 non-white pixels
+Row 272: 557 non-white pixels
+Row 336: 1090 non-white pixels
+Row 416: 1090 non-white pixels
+Row 417: 1090 non-white pixels
+Row 497: 1090 non-white pixels
+Row 529: 1090 non-white pixels
+Row 530: 1090 non-white pixels

@@ -1,0 +1,6 @@
+
+
+{
+  "commentary": "Market volatility has decreased slightly as buyers and sellers find equilibrium in the mid-session.",
+  "svg": "<svg width=\"1280\" height=\"640\" viewBox=\"0 0 1280 640\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"1280\" height=\"640\" fill=\"white\"/><path d=\"M140 400 L240 380 L340 420 L440 350 L540 360 L640 300 L740 320 L840 280 L940 300 L1040 250 L1140 260\" fill=\"none\" stroke=\"#e0e0e0\" stroke-width=\"3\"/><path d=\"M140 450 L240 460 L340 440 L440 480 L540 470 L640 500 L740 490 L840 520 L940 510 L1040 540 L1140 530\" fill=\"none\" stroke=\"#f0f0f0\" stroke-width=\"3\"/><line x1=\"440\" y1=\"50\" x2=\"440\" y2=\"590\" stroke=\"#ff4444\" stroke-width=\"6\"/><circle cx=\"440\" cy=\"320\" r=\"12\" fill=\"#ff4444\"/></svg>"
+}

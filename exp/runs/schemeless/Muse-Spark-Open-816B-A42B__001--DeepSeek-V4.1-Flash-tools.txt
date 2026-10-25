@@ -1,0 +1,18 @@
+(1280, 640)
+ERROR NameError: name 'img_array' is not defined
+
+---
+(1280, 640)
+ERROR NameError: name 'arr' is not defined
+
+---
+(1280, 640)
+ERROR NameError: name 'arr' is not defined
+
+---
+(1280, 640)
+ERROR NameError: name 'px' is not defined
+
+---
+(1280, 640)
+6.5 16.0 11.0

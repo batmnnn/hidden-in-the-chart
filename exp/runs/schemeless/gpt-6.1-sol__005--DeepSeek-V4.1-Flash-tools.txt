@@ -1,0 +1,5 @@
+(1280, 640)
+ink in plot area: 9525
+ink below 500: 1475
+ink right of 1200: 0
+ink above 150: 4117

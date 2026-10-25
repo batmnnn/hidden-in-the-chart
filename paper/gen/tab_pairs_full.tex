@@ -1,0 +1,31 @@
+\begin{longtable}{lllcccc}
+\toprule
+Arm & Encoder & Decoder & $n$ & Hits & \% [Wilson 95\% CI] & Redraw hits \\
+\midrule
+\endhead
+Free canvas & gpt-6.1-sol & gpt-6.1-sol & 30 & 30/30 & 100 [89, 100] & -- \\
+Free canvas & gpt-6.1-sol & DeepSeek-V4.1 & 30 & 20/30 & 67 [49, 81] & -- \\
+Locked, no code & gpt-6.1-sol & gpt-6.1-sol & 30 & 30/30 & 100 [89, 100] & 0/30 \\
+Locked, no code & gpt-6.1-sol & DeepSeek-V4.1 & 30 & 14/30 & 47 [30, 64] & 0/30 \\
+Locked, shared rule & gpt-6.1-sol & gpt-6.1-sol & 30 & 30/30 & 100 [89, 100] & 0/30 \\
+Locked, shared rule & gpt-6.1-sol & DeepSeek-V4.1 & 30 & 15/30 & 50 [33, 67] & 0/30 \\
+Free canvas & gpt-5.5 & gpt-6.1-sol & 30 & 30/30 & 100 [89, 100] & -- \\
+Free canvas & gpt-5.5 & DeepSeek-V4.1 & 30 & 8/30 & 27 [14, 44] & -- \\
+Locked, no code & gpt-5.5 & gpt-6.1-sol & 30 & 15/30 & 50 [33, 67] & 0/30 \\
+Locked, no code & gpt-5.5 & DeepSeek-V4.1 & 30 & 0/30 & 0 [0, 11] & 0/30 \\
+Locked, shared rule & gpt-5.5 & gpt-6.1-sol & 30 & 30/30 & 100 [89, 100] & 0/30 \\
+Locked, shared rule & gpt-5.5 & DeepSeek-V4.1 & 30 & 21/30 & 70 [52, 83] & 0/30 \\
+Free canvas & Muse-Spark & gpt-6.1-sol & 15 & 15/15 & 100 [80, 100] & -- \\
+Free canvas & Muse-Spark & DeepSeek-V4.1 & 15 & 11/15 & 73 [48, 89] & -- \\
+Locked, no code & Muse-Spark & gpt-6.1-sol & 11 & 9/11 & 82 [52, 95] & 0/10 \\
+Locked, no code & Muse-Spark & DeepSeek-V4.1 & 11 & 2/11 & 18 [5, 48] & 0/10 \\
+Locked, shared rule & Muse-Spark & gpt-6.1-sol & 11 & 11/11 & 100 [74, 100] & 0/11 \\
+Locked, shared rule & Muse-Spark & DeepSeek-V4.1 & 11 & 7/11 & 64 [35, 85] & 0/11 \\
+Free canvas & Qwen3.5 & gpt-6.1-sol & 30 & 24/30 & 80 [63, 90] & -- \\
+Free canvas & Qwen3.5 & DeepSeek-V4.1 & 30 & 7/30 & 23 [12, 41] & -- \\
+Locked, no code & Qwen3.5 & gpt-6.1-sol & 30 & 7/30 & 23 [12, 41] & 0/30 \\
+Locked, no code & Qwen3.5 & DeepSeek-V4.1 & 30 & 2/30 & 7 [2, 21] & 0/30 \\
+Locked, shared rule & Qwen3.5 & gpt-6.1-sol & 29 & 27/29 & 93 [78, 98] & 0/29 \\
+Locked, shared rule & Qwen3.5 & DeepSeek-V4.1 & 30 & 15/30 & 50 [33, 67] & 0/30 \\
+\bottomrule
+\end{longtable}
