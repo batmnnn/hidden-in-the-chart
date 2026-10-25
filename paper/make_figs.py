@@ -778,9 +778,10 @@ save(fig, "fig5_game")
 # Fig 0: one-glance overview. (a) setup schematic; (b) headline numbers for gpt-6.1-sol no-code charts, from the logs.
 from matplotlib.patches import FancyBboxPatch
 M = macros
-FH = 3.7
+FH = 4.4
 fig = plt.figure(figsize=(TW, FH))
-ax = fig.add_axes([0, 0.555, 1, 0.445])
+AY, AH = 0.585, 0.415
+ax = fig.add_axes([0, AY, 1, AH])
 ax.set_xlim(0, 100); ax.set_ylim(0, 30); ax.axis("off")
 
 
@@ -807,8 +808,8 @@ _cl = [r for r in rows_all["clean"] if r["encoder"].endswith("gpt-6.1-sol") and 
 CX0, CX1, CY0, CY1 = 25.0, 45.0, YM - 9.0, YM + 9.0
 ax.add_patch(plt.Rectangle((CX0, CY0), CX1 - CX0, CY1 - CY0, fc="white", ec="#888888", lw=0.9))
 ax.text((CX0 + CX1) / 2, CY1 + 1.3, "Rendered chart (PNG)", ha="center", va="bottom", weight="bold")
-tx = fig.add_axes([(CX0 + 3.6) / 100, 0.555 + 0.445 * (CY0 + 2.6) / 30, (CX1 - CX0 - 5.2) / 100,
-                   0.445 * (CY1 - CY0 - 4.6) / 30])
+tx = fig.add_axes([(CX0 + 3.6) / 100, AY + AH * (CY0 + 2.6) / 30, (CX1 - CX0 - 5.2) / 100,
+                   AH * (CY1 - CY0 - 4.6) / 30])
 ser = _cl["series"]
 tx.plot(range(1, 11), ser, color=BLUE, lw=0.9)
 tx.scatter(range(1, 11), ser, color=BLUE, s=7, zorder=3)
@@ -830,8 +831,8 @@ for y, lab, out, fc, ec in rows_:
     ax.text(82.2, y, out, ha="left", va="center")
 
 # (b) headline bars
-bx = fig.add_axes([0.30, 0.07, 0.62, 0.40])
-fig.text(0.005, 0.505, "(b) Results on gpt-6.1-sol's 30 locked charts with no agreed code", weight="bold", va="center")
+bx = fig.add_axes([0.30, 0.06, 0.62, 0.465])
+fig.text(0.005, 0.56, "(b) Results on gpt-6.1-sol's 30 locked charts with no agreed code", weight="bold", va="center")
 sol_rows = {"gpt-6.1-sol": cell("schemeless", "gpt-6.1-sol", "gpt-6.1-sol"),
             "gpt-5.5": cell_all("schemeless", "gpt-6.1-sol", "gpt-5.5"),
             "DeepSeek-V4.1": cell("schemeless", "gpt-6.1-sol", "DeepSeek-V4.1-Flash")}
